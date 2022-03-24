@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComponentesApp</string>
+    <string name="name">Ingresar Nombre</string>
+    <string name="age">Ingresar Edad</string>
+    <string name="button">Aceptar</string>
+    <string name="finish">Finalizar</string>
+</resources>
