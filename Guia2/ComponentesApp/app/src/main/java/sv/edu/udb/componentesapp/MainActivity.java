@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        etName = findViewById(R.id.txtName);
-        etAge = findViewById(R.id.txtAge);
+        etName = (EditText) findViewById(R.id.txtName);
+        etAge = (EditText) findViewById(R.id.txtAge);
     }
 
     public void secondActivity(View v) {

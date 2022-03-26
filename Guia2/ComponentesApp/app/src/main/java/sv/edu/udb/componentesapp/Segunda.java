@@ -16,8 +16,8 @@ public class Segunda extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_segunda);
 
-        tvName = findViewById(R.id.txtName);
-        tvAge = findViewById(R.id.txtAge);
+        tvName = (TextView) findViewById(R.id.txtViewName);
+        tvAge = (TextView) findViewById(R.id.txtViewAge);
 
         Bundle bundle = getIntent().getExtras();
         String name = bundle.getString("txtName");
