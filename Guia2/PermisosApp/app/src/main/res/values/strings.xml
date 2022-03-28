@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PermisosApp</string>
+    <string name="permission">Estado del Permiso:</string>
+    <string name="contacts">Contactos</string>
+    <string name="btnName">Abrir contacots</string>
+    <string name="lblName">Estado del Permiso:</string>
+    <string name="lblContact">Contacto Seleccionado:</string>
+</resources>
